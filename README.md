@@ -30,7 +30,7 @@ Wishlist: Add favorite courses to a wishlist for future reference.
 Admin Dashboard: Manage users, courses, and view statistics on sales and user activities.
 
 
-🤝 Contributors (Add table)
+🤝 Contributors
 
 Group 4
 
@@ -38,4 +38,10 @@ Class SE1875-JS
 
 Semester Spring 2025
 
-Phạm Đức Minh
+| Full name           | Student ID |
+|---------------------|------------|
+| Phạm Đức Minh       | HE161652   |
+| Trần Quang Huy      | HE171308   |
+| Vũ Đình Duy         | HE160694   |
+| Nguyễn Bá Anh Đức   | DE180608   |
+| Phạm Hùng Tiến      | HE172341   |
